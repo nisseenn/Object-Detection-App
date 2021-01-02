@@ -1,6 +1,6 @@
 # Object Detection App
 
-## An application for detecting objects and labeling them in images. Either take live photo or choose from the library. The app is developed using React Native as front end. The moddel used is TensorflowJS COCO-SSD.
+## An application for detecting objects and labeling them in images. Either take live photo or choose from the library. The app is developed using React Native as front end. The moddel used is TensorflowJS COCO-SSD. Full video of application: https://www.linkedin.com/feed/update/urn:li:activity:6747949934563139584/
 
 ## Loading the model when starting the app
 <img src="https://user-images.githubusercontent.com/20997734/103454773-91128b00-4ce7-11eb-98f6-319c3437f800.gif" width="30%" height="30%">
